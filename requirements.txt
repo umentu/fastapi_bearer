@@ -10,7 +10,7 @@ idna==2.8
 passlib==1.7.1
 pycparser==2.19
 pydantic==0.32.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-dotenv==0.10.3
 six==1.13.0
 starlette==0.12.9
